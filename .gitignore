@@ -6,6 +6,8 @@ npm-debug.log*
 # Dependency directory
 node_modules
 dist
+build
+bundle.zip
 
 # Optional npm cache directory
 .npm
@@ -16,3 +18,6 @@ dist
 
 #JWT-key
 .env
+
+# Some JSON files
+vk-hosting-config.json
